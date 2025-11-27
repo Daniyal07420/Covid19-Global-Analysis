@@ -104,5 +104,5 @@ Rana Daniyal
 
 🐙 GitHub: https://github.com/Daniyal07420
 
-![img alt](<img width="868" height="492" alt="image" src="https://github.com/user-attachments/assets/d0c582f2-0c4c-4a29-8c84-0ee9dea92ad6" />)
+![img alt](https://github.com/Daniyal07420/Covid19-Global-Analysis/blob/main/Covid19%20global%20analysis%20dashboard.png?raw=true)
 
