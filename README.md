@@ -1,8 +1,8 @@
-📊 COVID-19 Global Analysis Dashboard
+# 📊 COVID-19 Global Analysis Dashboard #
 
 A data-driven interactive dashboard built using Power BI to analyze worldwide COVID-19 cases, deaths, recoveries, and fatality rates across countries and regions.
 
-🌍 Project Overview
+## 🌍 Project Overview ##
 
 This dashboard provides a comprehensive view of the global COVID-19 situation using visual analytics.
 It helps users understand:
@@ -19,7 +19,7 @@ Insights for decision-making and reporting
 
 The goal of this project is to demonstrate strong skills in data analytics, visualization, storytelling, and dashboard design.
 
-📌 Key Features
+## 📌 Key Features ##
 
 ✔ KPI Cards Overview – Total Confirmed, Total Recovered, Total Deaths, Total Active
 ✔ Bar Charts –
@@ -31,7 +31,7 @@ The goal of this project is to demonstrate strong skills in data analytics, visu
 ✔ Clean layout & interactive visuals
 ✔ Professional color theme & modern UI
 
-🧪 Tech Stack
+## 🧪 Tech Stack ##
 
 Power BI Desktop
 
@@ -41,7 +41,7 @@ DAX calculations
 
 Data cleaning & transformation
 
-📁 Project Files
+## 📁 Project Files ##
 
 COVID-19 Dashboard (.pbix)
 
@@ -49,9 +49,9 @@ Dataset (CSV/Excel)
 
 Dashboard screenshot
 
-🖼️ Dashboard Preview
+# 🖼️ Dashboard Preview #
 
-📊 Insights Generated
+## 📊 Insights Generated ##
 
 The Americas show the highest number of active cases
 
@@ -61,7 +61,7 @@ Fatality rate varies sharply between regions
 
 Recovery trends show promising patterns in several countries
 
-🎯 Objectives of This Project
+## 🎯 Objectives of This Project ##
 
 Practice real-world data analytics
 
@@ -71,7 +71,7 @@ Showcase Power BI visualization skills
 
 Interpret global pandemic trends through data
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated ##
 
 Data Cleaning & Preparation
 
@@ -85,7 +85,7 @@ Dashboard Design
 
 Insight Generation
 
-🚀 How to Use
+## 🚀 How to Use ##
 
 Clone the repository
 
@@ -95,7 +95,7 @@ Explore the interactive dashboard
 
 Connect your own dataset if needed
 
-📬 Contact
+## 📬 Contact ##
 
 Rana Daniyal
 📧 Email: daniyalinfo.com@gmail.com
@@ -103,3 +103,6 @@ Rana Daniyal
 🔗 LinkedIn: https://www.linkedin.com/in/rana-daniyal-720a43379/
 
 🐙 GitHub: https://github.com/Daniyal07420
+
+![img alt](<img width="868" height="492" alt="image" src="https://github.com/user-attachments/assets/d0c582f2-0c4c-4a29-8c84-0ee9dea92ad6" />)
+
